@@ -1,0 +1,30 @@
+------------ PROJETO GENESIS --------------
+Autor : Marcos Romero (RH Games - Beljogos)
+Email : romero1978@gmail.com
+Página: http://romerogames.blogspot.com
+-------------------------------------------
+
+
+MRDX:
+
+
+Versão 1.0 - 26 DE ABRIL DE 2001
+Versão 1.1 - 26 DE ABRIL DE 2011
+
+
+
+A pasta "Textos\" contém uma apostila de Linguagem C/C++, o meu TCC que aborda o uso do MRDX e um texto sobre o MRDX 1.1.
+
+A pasta "Exemplos\" contém os programas feitos com o MRDX.
+
+A pasta "Dxsdk\" contém os arquivos principais do SDK do DirectX necessário para se construir os programas que usam o MRDX.
+
+
+
+No TCC é feita referência as pastas que na distribuição inicial do MRDX era organizada da seguinte forma:
+
+progjogos\
+	mrdx\
+	dxsdk\
+	ex1\
+	ex2\
