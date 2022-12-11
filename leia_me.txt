@@ -1,0 +1,23 @@
+Introdução à Programação de Jogos
+
+Autor: Marcos Romero, maromero@zaz.com.br, programador de jogos da RH Games (www.geocities.com/RHGames)
+
+Este curso encontra-se na página www.geocities.com/progjogos
+
+Este material está organizado da seguinte forma:
+
+progjogos\
+	mrdx\
+	dxsdk\
+	ex1\
+	ex2\
+
+No arquivo progjogos.doc está o texto do curso.
+
+A pasta "mrdx\" contém o par de arquivos que formam o MRDX.
+
+A pasta "dxsdk\" contém os arquivos principais do SDK do DirectX necessário para se construir os programas que usam DirectX.
+
+A pasta "ex1\" contém o primeiro jogo exemplo do curso.
+
+A pasta "ex2\" contém o segundo jogo exemplo do curso.
